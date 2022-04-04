@@ -1,4 +1,4 @@
-package input_package
+package my_first_input_package
 
 import (
 	"bufio"
